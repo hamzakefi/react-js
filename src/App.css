@@ -1,0 +1,23 @@
+.App {
+  background-color:rgb(236, 213, 213);
+  text-align: center;
+}
+
+.logo{
+  margin-top: 3%;
+  color:rgb(208, 230, 228);
+}
+h1{display: block; color: black;}
+p{color: black;}
+.item img {
+  width: 100%;
+  height: auto
+}
+
+.carousel-inner img {
+  width: 100%;
+  margin: auto;
+  max-height: 300px;
+}
+img, svg {
+ width: 30%; height: 30%; padding: 2%;}
